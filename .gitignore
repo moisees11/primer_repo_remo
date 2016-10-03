@@ -2,10 +2,15 @@
 
 
 
-# Package Files #
 *.jar
+ HEAD
 *.war
-***12121212121212
+*
+**12121212121212
 
+*.wa
+*.ear
+*holaaaaaaaaaaaaa
+*168288e80d927a1327820410b8128d07e85182cd
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
